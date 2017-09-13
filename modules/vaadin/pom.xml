@@ -13,8 +13,6 @@
 
 
   <dependencies>
-
-
     <dependency>
       <groupId>${project.groupId}</groupId>
       <artifactId>helloworld-modules-microkernel</artifactId>
